@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @DokaF
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning php
+- 📫 How to reach me pochta@vsvp.ru
